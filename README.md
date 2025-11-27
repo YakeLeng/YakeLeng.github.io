@@ -35,7 +35,7 @@ PRISM stands for **P**ortfolio & **R**esearch **I**nterface **S**ite **M**aker. 
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/PRISM.git
+    git clone https://github.com/xyjoey/PRISM.git
     cd PRISM
     ```
 
