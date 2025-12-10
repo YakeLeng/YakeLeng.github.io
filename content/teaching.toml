@@ -8,3 +8,10 @@ subtitle = "Teaching Assistant"
 date = "2024"
 content = "Description of the course and responsibilities."
 tags = ["Undergraduate", "CS"]
+
+[[items]]
+title = "Advanced Mathematics"
+subtitle = "Teacher"
+date = "2023.09-2025.06"
+content = "Description of the course and responsibilities."
+tags = ["Associate Degree Program", "Grain Engineering"]

@@ -1,26 +1,31 @@
 ## Education
 
-**The University of Example**, PhD in Natural Science, *2025 - Present*
-- Research focus: Mathematical Principles of Natural Philosophy
-- Supervisor: Prof. Advisor One and Dr. Advisor Two
+**Biomedical Engineering**, PhD in FUDAN University, Sep. *2025- Present*
 
-**The University of Example**, BSc in Natural Science, *2021 - 2025*
-- Graduated with First Class Honours
+* Research focus: Photoacoustic Imaging；PINNs
+* Supervisor: Prof. Ting Feng
+
+**Mathematical Theory and Technology of Complex Systems**, Master of Engineering Degree, *2022 - 2025*
+
+* Graduated with National Scholarship
+
+**Electronic Information Engineering**, Bachelor of Engineering degree, *2017 - 2021*
+
+* Graduated with School First-Class Scholarship
 
 ## Experience
 
-**Example Role**
-Company/Institution
-*2023 - 2024*
-- Description of key responsibilities and achievements.
-- Utilized skills to solve problems.
+**Example Role**, Company/Institution, *2021 - 2022*
+
+* Description of key responsibilities and achievements.
+* Utilized skills to solve problems.
 
 ## Skills
 
-- **Programming:** Python, C++, MATLAB, LaTeX
-- **Data Analysis:** Pandas, NumPy, SciPy
-- **Languages:** English (Native), French (Fluent)
+* **Programming:** Python, MATLAB, LaTeX
+* **Data Analysis:** Pandas, NumPy, SciPy
+* **Languages:** Chinese(Native), English (Fluent), Russian (Beginner)
 
-## Awards & Honors
+## Awards \& Honors
 
-- **First Prize in Example Competition** - Committee of Example (*2024*)
+* **Sep. 2024. National Scholarship**, Ministry of Education of China.

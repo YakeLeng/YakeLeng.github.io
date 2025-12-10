@@ -3,9 +3,9 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Computational Physics",
-  "Mathematical Principles",
-  "Proof of Theorems"
+  "Electronic Information Engineering",
+  "Control Science Engineering: Partial Differential Equations(PINNs)",
+  "Biomedical Engineering: Photoacoustic Imaging"
 ]
 
 [[sections]]

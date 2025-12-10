@@ -1,0 +1,10 @@
+type = "card"
+title = "Studying"
+description = "Courses I am currently studying."
+
+[[items]]
+title = "Example Course"
+subtitle = "Specialized Courses"
+date = "2025"
+content = "Description of the course and responsibilities."
+tags = ["Postgraduate", "Biomedical Engineering"]
