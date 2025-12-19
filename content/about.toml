@@ -1,5 +1,5 @@
-type = "about"
-title = "About"
+type = "Home"
+title = "Home"
 
 [profile]
 research_interests = [
@@ -17,7 +17,7 @@ title = "About"
 [[sections]]
 id = "featured_publications"
 type = "publications"
-title = "Selected Publications"
+title = "Publications"
 filter = "selected"
 limit = 5
 
@@ -26,4 +26,6 @@ id = "news"
 type = "list"
 title = "News"
 source = "news.toml"
+
+
 

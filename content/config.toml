@@ -2,7 +2,7 @@
 title = "Yake Leng"
 description = "PhD student at the FUDAN University."
 favicon = "/bio.png"
-last_updated = "December 10, 2025"
+last_updated = "December 20, 2025"
 
 [author]
 name = "Yake Leng"
@@ -12,7 +12,6 @@ avatar = "/bio.png"
 
 [social]
 # Contact information (leave blank or delete to hide)
-
 email = "ykleng25@m.fudan.edu.cn"
 location = "City, Country"
 location_url = "https://maps.google.com"
@@ -33,9 +32,9 @@ enable_likes = true
 enable_one_page_mode = false
 
 [[navigation]]
-title = "About"
+title = "Home"
 type = "page"
-target = "about"
+target = "Home"
 href = "/"
 
 [[navigation]]
@@ -73,3 +72,4 @@ title = "CV"
 type = "page"
 target = "cv"
 href = "/cv"
+

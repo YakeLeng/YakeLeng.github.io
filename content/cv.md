@@ -23,7 +23,6 @@
 ## Skills
 
 * **Programming:** Python, MATLAB, LaTeX
-* **Data Analysis:** Pandas, NumPy, SciPy
 * **Languages:** Chinese(Native), English (Fluent), Russian (Beginner)
 
 ## Awards \& Honors
